@@ -1,0 +1,15 @@
+$ cd /
+$ ls
+115454 a
+dir b
+177917 c
+dir d
+30151 e
+73443 f
+$ cd b
+$ ls
+28633 h
+22639 i
+dir j
+
+tld size = 878237
